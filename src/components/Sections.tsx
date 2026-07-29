@@ -124,7 +124,7 @@ export function About() {
           <div className="stripes absolute -left-8 -top-8 h-40 w-40 rounded-full opacity-70" />
           <div className="absolute -bottom-4 -right-4 h-full w-full rounded-[28px] border-2 border-crimson/70" />
           <RealImg
-            real="/photos/cup.jpg"
+            real="/photos/cup.png"
             fallback={cup}
             alt="Tulip latte art poured by Willson Rai, resting on a granite café counter"
             className="relative h-[420px] w-[340px] rounded-[26px] object-cover shadow-2xl ring-1 ring-white/15 sm:w-[400px]"
