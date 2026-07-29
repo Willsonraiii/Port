@@ -318,7 +318,7 @@ export default function Hero() {
             <div className="stripes spin-slow absolute -left-10 -top-8 h-[300px] w-[300px] rounded-full opacity-90 lg:h-[340px] lg:w-[340px]" />
             <div className="metal absolute -right-2 -top-2 h-full w-full rounded-[32px]" />
             <RealImg
-              real="/photos/pouring.jpg"
+              real="/photos/pouring.png"
               fallback={pouring}
               alt="Willson Rai pouring a tulip rosetta from his rainbow pitcher"
               className="relative h-[300px] w-[260px] rounded-[28px] object-cover object-[50%_35%] shadow-2xl ring-1 ring-white/25 lg:h-[315px] lg:w-[280px]"
